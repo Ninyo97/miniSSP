@@ -1,1 +1,2 @@
 # miniSSP
+Repository under maintenance
